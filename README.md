@@ -1,6 +1,6 @@
 # GPU Partitioning Helper (`gpu_partitioner.h`)
 
-This header file provides utilities for managing and analyzing GPU memory partitioning states, specifically targeting a GPU with 7 configurable slices (like an NVIDIA A100 GPC). The core functionality revolves around finding the optimal placement for a new memory partition request to maximize future configuration possibilities.
+This header file provides utilities for managing and analyzing GPU memory partitioning states, specifically targeting a GPU with 7 configurable slices (like an NVIDIA A100). The core functionality revolves around finding the optimal placement for a new memory partition request to maximize future configuration possibilities.
 
 ## Key Components
 
